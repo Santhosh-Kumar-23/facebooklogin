@@ -72,7 +72,7 @@ You will get hash key
 After filling that hit Save changes button.
 ![Alt text](image-9.png)
 
-# Note : Edit Your Resources and Manifest and Integrate the Facebook SDK
+# Note : Edit Your Resources and Manifest and Integrate the Facebook SDK (in configuration)
 
 [**Configuration**](https://developers.facebook.com/docs/facebook-login/android)
 
