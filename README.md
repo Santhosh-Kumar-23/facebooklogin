@@ -170,3 +170,5 @@ const App = () => {
 };
 export default App;
 ```
+
+-[**Refer**](https://aboutreact.com/react-native-facebook-login/)
