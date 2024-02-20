@@ -6,4 +6,4 @@ Facebook login integration with React native app
 
 ## STEP : 1
 
-[**Craete a facebook developer account(Meta)**](https://business.facebook.com/login/?next=https%3A%2F%2Fbusiness.facebook.com%2F%3Fbiz_login_source%3Dbizweb_unified_login_fb_login_button)
+[**Craete a facebook developer account(Meta)**](https://www.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Fapps%2F)
